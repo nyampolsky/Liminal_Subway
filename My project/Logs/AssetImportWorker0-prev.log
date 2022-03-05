@@ -1,0 +1,307 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.29f1 (2ff179115da0) revision 3142009'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'en' Physical Memory: 16271 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\GitHub\2020.3.29f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Bryan/UNITY/liminalSpaces/liminal_Spaces/My project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61772
+Successfully changed project path to: C:/Users/Bryan/UNITY/liminalSpaces/liminal_Spaces/My project
+C:/Users/Bryan/UNITY/liminalSpaces/liminal_Spaces/My project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 71.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.29f1 (2ff179115da0)
+[Subsystems] Discovering subsystems at path C:/Program Files/GitHub/2020.3.29f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Bryan/UNITY/liminalSpaces/liminal_Spaces/My project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   
+    VRAM:     4027 MB
+    Driver:   30.0.14.7247
+Initialize mono
+Mono path[0] = 'C:/Program Files/GitHub/2020.3.29f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/GitHub/2020.3.29f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/GitHub/2020.3.29f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56572
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/GitHub/2020.3.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001338 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.572 seconds
+Domain Reload Profiling:
+	ReloadAssembly (572ms)
+		BeginReloadAssembly (66ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (436ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (151ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (158ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (72ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.914 seconds
+Domain Reload Profiling:
+	ReloadAssembly (915ms)
+		BeginReloadAssembly (136ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (727ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (243ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (281ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (189ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1993 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2435.
+Total: 3.122400 ms (FindLiveObjects: 0.149300 ms CreateObjectMapping: 0.050600 ms MarkObjects: 2.611900 ms  DeleteObjects: 0.309900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/FREE_SW_ENV_StreetEntrance_01_Lower_Collision.prefab
+  artifactKey: Guid(41d96dc7bbb379c4ea5b9b4552f058d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/FREE_SW_ENV_StreetEntrance_01_Lower_Collision.prefab using Guid(41d96dc7bbb379c4ea5b9b4552f058d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a77536003d441d4e347739c99ed80e2') in 0.107490 seconds 
+  Import took 0.110403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.857181 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Floor (1).prefab
+  artifactKey: Guid(2abc6844b1db55943a5ee3ef8bc5e69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Floor (1).prefab using Guid(2abc6844b1db55943a5ee3ef8bc5e69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba9017bbcaa727e266ed72a59432c31') in 0.038760 seconds 
+  Import took 0.043351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.325886 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Floor.prefab
+  artifactKey: Guid(60a5d31e303b59a4cabb615e1ed85bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Floor.prefab using Guid(60a5d31e303b59a4cabb615e1ed85bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b989f8f0a52733e9a8193dbf0f932255') in 0.035403 seconds 
+  Import took 0.040746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.970749 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Floor 1.prefab
+  artifactKey: Guid(dcda4811c769e4a4f9c112bbd31e39ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Floor 1.prefab using Guid(dcda4811c769e4a4f9c112bbd31e39ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '492e0ec8fee93aa548cb8c51240a132f') in 0.027012 seconds 
+  Import took 0.031664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.777466 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/FREE_SW_PROP_Gate_Large (1).prefab
+  artifactKey: Guid(554f00e3b9db35845aa052ebb77dc027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/FREE_SW_PROP_Gate_Large (1).prefab using Guid(554f00e3b9db35845aa052ebb77dc027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953ce4c9159952fd17b40c95a8479c99') in 0.021215 seconds 
+  Import took 0.026843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 487.886032 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Classic fluorescent lamp (1) Variant.prefab
+  artifactKey: Guid(a5ad0a66e2ad2f54e836408e3c2a1c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Classic fluorescent lamp (1) Variant.prefab using Guid(a5ad0a66e2ad2f54e836408e3c2a1c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825dd34ddf322098067330ead96cb3b1') in 0.126983 seconds 
+  Import took 0.132834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.907018 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Classic fluorescent lamp (2) Variant.prefab
+  artifactKey: Guid(dd5fd462a625ed9428b670dd5bc4d2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Classic fluorescent lamp (2) Variant.prefab using Guid(dd5fd462a625ed9428b670dd5bc4d2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db06f7e6f4a11f9442bacb9ace8cc8c') in 0.051384 seconds 
+  Import took 0.056599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.956407 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube.prefab
+  artifactKey: Guid(e3ab32222620bb14a800a2fd714014fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube.prefab using Guid(e3ab32222620bb14a800a2fd714014fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7dc73e1bf775e14ccd569338330b4e') in 0.020762 seconds 
+  Import took 0.026401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.811936 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (1).prefab
+  artifactKey: Guid(9345fbcf61164fe48955302667efee1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (1).prefab using Guid(9345fbcf61164fe48955302667efee1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8786f35dea3abfc4380a45b58e1312') in 0.012710 seconds 
+  Import took 0.017042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.919166 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (2).prefab
+  artifactKey: Guid(1a62efd24e7f73042961caf6ddb2217c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (2).prefab using Guid(1a62efd24e7f73042961caf6ddb2217c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc76f4790ea9025b2eb1b775f3164a5') in 0.013560 seconds 
+  Import took 0.018264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.679957 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (3).prefab
+  artifactKey: Guid(7f5413130074c2d4b955a4d35e9553fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (3).prefab using Guid(7f5413130074c2d4b955a4d35e9553fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678ed6ddc68a7160e38f926e0b941828') in 0.012557 seconds 
+  Import took 0.016337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.083720 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (4).prefab
+  artifactKey: Guid(262a771d7872411468f4740415a5590e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (4).prefab using Guid(262a771d7872411468f4740415a5590e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11957237583e836901291ba0387ec74e') in 0.066473 seconds 
+  Import took 0.069833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.312394 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (5).prefab
+  artifactKey: Guid(b2ade2e716b03c74fb6b9104f03e88a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (5).prefab using Guid(b2ade2e716b03c74fb6b9104f03e88a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '397272f9a6bc45fd4d1f3041c917d770') in 0.012512 seconds 
+  Import took 0.016209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.270478 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (6).prefab
+  artifactKey: Guid(f4bb63622476bc1428b99309f7c64a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (6).prefab using Guid(f4bb63622476bc1428b99309f7c64a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670be544ec16ba5764a28a5367e7b6df') in 0.015404 seconds 
+  Import took 0.019065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.210897 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (7).prefab
+  artifactKey: Guid(770e46ab7c1b8ab44bbf03d623d6316d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (7).prefab using Guid(770e46ab7c1b8ab44bbf03d623d6316d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf985a51b533db316fc106a7673fe85c') in 0.014246 seconds 
+  Import took 0.018816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.804458 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Door.prefab
+  artifactKey: Guid(0b96d822f0487c445be210e791a79ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Door.prefab using Guid(0b96d822f0487c445be210e791a79ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dfd60aca2d6e7543249b420d49b152d') in 0.014169 seconds 
+  Import took 0.017785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.175052 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (8).prefab
+  artifactKey: Guid(a198189b8dff0b546a82186a1e0a7124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (8).prefab using Guid(a198189b8dff0b546a82186a1e0a7124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '638f7d8ad4ef265a9b3f19771d1530a1') in 0.013480 seconds 
+  Import took 0.017816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.583466 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (9).prefab
+  artifactKey: Guid(13287c3911d3a7c478e72fd6d4a672d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (9).prefab using Guid(13287c3911d3a7c478e72fd6d4a672d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0cb48c4f4572793684480dc1a929379') in 0.014887 seconds 
+  Import took 0.019467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 318.547302 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (10).prefab
+  artifactKey: Guid(4cdb97e7bbc17c545819cf67d403a9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (10).prefab using Guid(4cdb97e7bbc17c545819cf67d403a9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b499834da9d5fa959475b0fda7326a5') in 0.016232 seconds 
+  Import took 0.021520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.887583 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (11).prefab
+  artifactKey: Guid(49b82a2ca9a42084d91edb82b52846e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (11).prefab using Guid(49b82a2ca9a42084d91edb82b52846e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a9dad5b4e7ad0b2024cf8b12c2103c') in 0.015925 seconds 
+  Import took 0.019945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.423857 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (12).prefab
+  artifactKey: Guid(1a81b02eb1602e744b76a070df4e6fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cube (12).prefab using Guid(1a81b02eb1602e744b76a070df4e6fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70cbefaffba6a50eeb050c9c4e7312c') in 0.013088 seconds 
+  Import took 0.017642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.272749 seconds.
+  path: Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cylinder.prefab
+  artifactKey: Guid(43affabb55c20324caf2b0ab10496665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ChildrensWoodenToysFreeTrainsPack/Prefab/prefabs_ForRTC/Cylinder.prefab using Guid(43affabb55c20324caf2b0ab10496665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c383b5e624fcab6da8427ac9a5257037') in 0.021779 seconds 
+  Import took 0.025724 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
